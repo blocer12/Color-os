@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="6dp">
+
+    <ImageView
+        android:id="@+id/dockAppIcon"
+        android:layout_width="@dimen/dock_icon_size"
+        android:layout_height="@dimen/dock_icon_size"
+        android:contentDescription="@null"
+        android:scaleType="fitCenter" />
+</FrameLayout>
