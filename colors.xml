@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="liquid_acrylic_surface">#CCF5F7FA</color>
+    <color name="liquid_acrylic_stroke">#66FFFFFF</color>
+    <color name="floating_island_bg">#E6FFFFFF</color>
+    <color name="floating_island_active">#1A0A84FF</color>
+    <color name="cos_accent_blue">#0A84FF</color>
+    <color name="cos_text_primary">#14181F</color>
+    <color name="cos_text_secondary">#5B6472</color>
+    <color name="cos_icon_label_shadow">#80000000</color>
+</resources>
